@@ -3,6 +3,7 @@
 Для компиляции NLLK необходимо указать путь к OpenCV  :
 
 https://github.com/opencv/opencv/releases/tag/4.5.3
+
 https://github.com/opencv/opencv_contrib/releases/tag/4.5.3
 
 После копирования файлов OpenCV в одну папку, для Windows выполнить "setx -m OPENCV_DIR e:\cv453m\build_15\", чтобы студия брала инклюды и либы через $(OPENCV_DIR)
