@@ -1,6 +1,6 @@
 # NLLK
  
-Для компиляции NLLK необходимо указать путь к OpenCV  : 
+Для компиляции NLLK необходимо указать путь к OpenCV  :
 https://github.com/opencv/opencv/releases/tag/4.5.3
 https://github.com/opencv/opencv_contrib/releases/tag/4.5.3
 
