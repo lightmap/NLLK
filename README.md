@@ -10,7 +10,7 @@ https://github.com/opencv/opencv_contrib/releases/tag/4.5.3
 
 Для Ubuntu подготовлен NLLK\LLK.pro под QT, но не актуализирована с последними изменениями по интеграции YOLO.
 
-Собирать OpenCV не обязательно, но если и компилировать, то включить поддержку CUDA.
+[windows]Собирать OpenCV не обязательно, но если и компилировать, то включить поддержку CUDA.
 
 Если нет поддержки cuda, то до компиляции NLLK использовать флаг YOLO.h::init(tiny flag, cuda flag).
 
